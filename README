@@ -1,0 +1,6 @@
+This is my .vim directory, containing the vimrc, which I symlink to from 
+.vimrc one directory higher.
+
+This is very much work in progress, and I'm still trying out different 
+plugins, so don't use this as a template, it's just so I can keep 
+my vim setups in sync across all environments.
